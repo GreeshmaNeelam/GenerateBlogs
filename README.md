@@ -21,10 +21,10 @@ GenerateBlogs/
 │ └── llama-2-7b-chat.ggmlv3.q8_0.bin
 
 
-**Install the dependencies**
+**Install the dependencies** -
 pip install -r requirements.txt
 
-▶️**Run the App**
+▶️**Run the App** - 
 streamlit run app.py
 
 
